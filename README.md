@@ -18,4 +18,5 @@ SDCNet: Smoothed dense-convolution network for restoring low-dose cerebral CT pe
 SIPID: A deep learning framework for sinogram interpolation and image denoising in low-dose CT reconstruction(ISBI 2018) [[PDF]](https://ieeexplore.ieee.org/document/8363862) [[Code]](https://github.com/angeberry/SIPID)  
 Consensus Neural Network for Medical Imaging Denoising with Only Noisy Training Samples（MICCAI 2019） [[PDF]](http://arxiv.org/pdf/1906.03639v1.pdf)  
 BCD-Net for Low-dose CT Reconstruction: Acceleration, Convergence, and Generalization(MICCAI 2019) [[PDF]](https://arxiv.org/pdf/1908.01287.pdf)  
-Domain Progressive 3D Residual Convolution Network to Improve Low Dose CT Imaging(TMI 2019) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8718010)
+Domain Progressive 3D Residual Convolution Network to Improve Low Dose CT Imaging(TMI 2019) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8718010)  
+AdaIN-Based Tunable CycleGAN for Efficient Unsupervised Low-Dose CT Denoising(IEEE Transactions on Computational Imaging 2021) [[PDF]]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8718010](https://ieeexplore.ieee.org/abstract/document/9317750)) 
