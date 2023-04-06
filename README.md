@@ -1,7 +1,7 @@
-Model-based methods
-Efficient Low-Dose CT Denoising by Locally-Consistent Non-Local Means (LC-NLM)(MICCAI 2016) [PDF] (https://link.springer.com/chapter/10.1007/978-3-319-46726-9_49)
-A Gaussian Mixture MRF for Model-Based Iterative Reconstruction With Applications to Low-Dose X-Ray CT [[PDF]](https://ieeexplore.ieee.org/document/7493622)
-Discriminative learning-based methods
+ Model-based methods   
+Efficient Low-Dose CT Denoising by Locally-Consistent Non-Local Means (LC-NLM)(MICCAI 2016) [PDF] (https://link.springer.com/chapter/10.1007/978-3-319-46726-9_49  
+A Gaussian Mixture MRF for Model-Based Iterative Reconstruction With Applications to Low-Dose X-Ray CT [[PDF]](https://ieeexplore.ieee.org/document/7493622)  
+Discriminative learning-based methods   
 Low-dose CT denoising with convolutional neural network(ISBI 2016) [[PDF]](https://ieeexplore.ieee.org/document/7950488)
 (SAGAN)Sharpness-Aware Low-Dose CT Denoising Using Conditional Generative Adversarial Network [[PDF]](https://link.springer.com/article/10.1007/s10278-018-0056-0) [[Code]](https://github.com/xinario/SAGAN)
 Neural Network Convolution (NNC) for Converting Ultra-Low-Dose to “Virtual” High-Dose CT Images(MLMI 2017) [[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-67389-9_39)
