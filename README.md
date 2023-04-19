@@ -1,13 +1,13 @@
-Physics in Medicine & Biology
-2003年图书
-introduction to the mathematics of computed tomography(书籍 2003) [[PDF]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=81d3d2d3ef1fbcf451c58d1b8a615c55587375ae)   
-Introduction to the Mathematics of Computed Tomography(书籍 2003) [[PDF]](http://library.msri.org/books/Book47/files/faridani.pdf)  
+Physics in Medicine & Biology  
+2003年图书  
+introduction to the mathematics of computed tomography(书籍 2003) [[PDF]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=81d3d2d3ef1fbcf451c58d1b8a615c55587375ae)     
+Introduction to the Mathematics of Computed Tomography(书籍 2003) [[PDF]](http://library.msri.org/books/Book47/files/faridani.pdf)    
 
-2012年图书
-X-ray computed tomography(书籍 2012) [[PDF]](https://hal.science/hal-03544130/file/Primer_s43586_021_00015_4_1614252996_1.pdf)     
+2012年图书  
+X-ray computed tomography(书籍 2012) [[PDF]](https://hal.science/hal-03544130/file/Primer_s43586_021_00015_4_1614252996_1.pdf)       
 
-2015年图书
-Mathematical concepts for image reconstruction in tomography(Industrial Tomography 2015) [[PDF]](https://www.sciencedirect.com/science/article/pii/B9781782421184000125?via%3Dihub)  
+2015年图书  
+Mathematical concepts for image reconstruction in tomography(Industrial Tomography 2015) [[PDF]](https://www.sciencedirect.com/science/article/pii/B9781782421184000125?via%3Dihub)    
 
 2015  
 Projection domain denoising method based on dictionary learning for low-dose CT image reconstruction(Journal of X-Ray Science and Technology 2015) [[PDF]](https://content.iospress.com/articles/journal-of-x-ray-science-and-technology/xst509)  
